@@ -3,7 +3,12 @@
 
 代码源于A-kirami大佬的[摸鱼日历](https://github.com/A-kirami/nonebot-plugin-moyu)
 
+<details>
+  <summary>效果图</summary>
 
+![example](https://github.com/adios-amigos/nonebot-plugin-60szaobao/blob/main/example.PNG)
+
+</details>
 
 # 🎉 使用方法
 | 指令  | 说明 |
